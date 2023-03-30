@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "poo55_dbbb12b"
+        },
+        {
+            "type": "java",
+            "name": "Nose",
+            "request": "launch",
+            "mainClass": "Nose",
+            "projectName": "poo55_dbbb12b"
+        },
+        {
+            "type": "java",
+            "name": "Inicio",
+            "request": "launch",
+            "mainClass": "Principal.Inicio",
+            "projectName": "poo55_dbbb12b"
+        },
+        {
+            "type": "java",
+            "name": "Otro",
+            "request": "launch",
+            "mainClass": "Principal.Otro",
+            "projectName": "poo55_dbbb12b"
+        },
+        {
+            "type": "java",
+            "name": "ejemplo",
+            "request": "launch",
+            "mainClass": "ejemplo.ejemplo",
+            "projectName": "poo55_dbbb12b"
+        },
+        {
+            "type": "java",
+            "name": "prueba",
+            "request": "launch",
+            "mainClass": "intro.prueba",
+            "projectName": "poo55_dbbb12b"
+        },
+        {
+            "type": "java",
+            "name": "Figuras1",
+            "request": "launch",
+            "mainClass": "poliformismo.Figuras1",
+            "projectName": "poo55_dbbb12b"
+        },
+        {
+            "type": "java",
+            "name": "Juego",
+            "request": "launch",
+            "mainClass": "poliformismo.Juego",
+            "projectName": "poo55_dbbb12b"
+        },
+        {
+            "type": "java",
+            "name": "prueba(1)",
+            "request": "launch",
+            "mainClass": "poliformismo.prueba",
+            "projectName": "poo55_dbbb12b"
+        }
+    ]
+}
